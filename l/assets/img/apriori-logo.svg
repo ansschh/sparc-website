@@ -1,0 +1,35 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg253647" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata253653">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs253651"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-5a8a18cd-6a23-4685-9bd2-9dc75cc3125f">
+    <stop id="stop253628" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop253630" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-5a8a18cd-6a23-4685-9bd2-9dc75cc3125f">
+    <stop id="stop253633" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop253635" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop253637" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Montserrat;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path253656" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 410.37594,0 h 13.968 v -8.496 l -13.968,-17.784 z m 33.984,-50.4 v 9.144 l 13.968,16.848 V -50.4 Z m 0,26.856 -22.248,-26.856 h -11.736 v 6.696 l 13.968,16.848 22.248,26.856 h 11.736 v -5.832 l -13.968,-17.784 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#fbfbfb" stroke="#fbfbfb" transform="translate(0 334.34704) translate(283.5456326 -2.416000000000004) scale(2.04) translate(-410.37594 50.4)"></path>
+        <path id="path253658" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 507.47806,-16.056 c 0.144,-2.16 0.216,-3.24 0.216,-3.384 0,-4.176 -0.936,-7.776 -2.808,-10.8 -1.872,-3.024 -4.32,-5.4 -7.488,-6.984 -3.168,-1.584 -6.696,-2.448 -10.584,-2.448 -4.104,0 -7.776,0.864 -11.016,2.592 -3.312,1.728 -5.832,4.176 -7.704,7.2 -1.872,3.024 -2.736,6.48 -2.736,10.296 0,3.888 0.936,7.416 2.808,10.44 1.872,3.096 4.608,5.472 8.064,7.2 3.456,1.728 7.416,2.592 12.024,2.592 7.272,0 12.816,-2.088 16.632,-6.336 l -7.2,-7.488 c -1.44,1.224 -2.808,2.088 -4.176,2.592 -1.368,0.576 -2.952,0.792 -4.824,0.792 -2.52,0 -4.608,-0.504 -6.264,-1.584 -1.656,-1.08 -2.736,-2.664 -3.312,-4.68 z m -25.92,-12.096 c 1.44,-1.152 3.168,-1.8 5.328,-1.8 2.088,0 3.816,0.648 5.256,1.8 1.44,1.224 2.304,2.88 2.736,4.896 h -15.984 c 0.36,-2.016 1.224,-3.672 2.664,-4.896 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#fbfbfb" stroke="#fbfbfb" transform="translate(0 334.34704) translate(405.9091574 19.469119999999997) scale(2.04) translate(-465.35806 39.672)"></path>
+        <path id="path253660" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 540.99969,-1.584 -3.384,-9.576 c -1.224,0.864 -2.592,1.224 -4.176,1.224 -1.296,0 -2.304,-0.36 -3.024,-1.152 -0.72,-0.792 -1.08,-1.872 -1.08,-3.312 v -12.96 h 8.928 v -10.224 h -8.928 v -10.152 h -13.68 v 10.152 h -5.688 v 10.224 h 5.688 v 13.104 c 0,4.968 1.368,8.712 4.104,11.16 2.736,2.52 6.624,3.744 11.736,3.744 1.872,0 3.6,-0.144 5.256,-0.576 1.656,-0.36 3.096,-0.936 4.248,-1.656 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#fbfbfb" stroke="#fbfbfb" transform="translate(0 334.34704) translate(507.11280259999995 3.018560000000001) scale(2.04) translate(-509.96769 47.736)"></path>
+        <path id="path253662" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 564.70681,-38.304 c -2.232,0.864 -4.032,2.232 -5.4,3.96 v -4.68 h -13.032 V 0 h 13.68 v -17.928 c 0,-3.24 0.792,-5.688 2.448,-7.272 1.656,-1.584 3.96,-2.376 6.912,-2.376 0.792,0 1.8,0.072 3.096,0.216 v -12.312 c -2.88,0 -5.472,0.504 -7.704,1.368 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#fbfbfb" stroke="#fbfbfb" transform="translate(0 334.34704) translate(591.3793274 19.469119999999997) scale(2.04) translate(-546.27481 39.672)"></path>
+        <path id="path253664" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 609.23881,-35.208 c -3.456,-2.952 -8.352,-4.464 -14.832,-4.464 -3.168,0 -6.264,0.432 -9.36,1.224 -3.096,0.792 -5.688,1.872 -7.848,3.312 l 4.608,9.288 c 1.296,-1.008 2.952,-1.872 4.896,-2.448 1.872,-0.576 3.816,-0.936 5.688,-0.936 5.256,0 7.992,2.088 8.28,6.192 h -7.776 c -5.904,0 -10.296,1.08 -13.104,3.096 -2.88,2.016 -4.248,4.896 -4.248,8.568 0,2.304 0.504,4.392 1.656,6.192 1.152,1.8 2.808,3.24 5.04,4.248 2.16,1.08 4.824,1.584 7.848,1.584 5.688,0 9.504,-1.872 11.52,-5.688 V 0 h 12.744 v -21.672 c 0,-6.048 -1.728,-10.584 -5.112,-13.536 z m -11.16,26.064 c -1.224,0.792 -2.592,1.152 -4.176,1.152 -1.584,0 -2.88,-0.36 -3.744,-1.08 -0.936,-0.72 -1.368,-1.656 -1.368,-2.88 0,-2.592 1.944,-3.96 5.976,-3.96 h 5.904 v 3.384 c -0.576,1.512 -1.44,2.664 -2.592,3.384 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#fbfbfb" stroke="#fbfbfb" transform="translate(0 334.34704) translate(661.2860474000001 19.469119999999997) scale(2.04) translate(-575.54281 39.672)"></path>
+      </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>
